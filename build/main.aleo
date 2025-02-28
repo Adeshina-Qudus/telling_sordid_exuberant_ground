@@ -1,4 +1,4 @@
-program auction.aleo;
+program auctiontask.aleo;
 
 record Bid:
     owner as address.private;
